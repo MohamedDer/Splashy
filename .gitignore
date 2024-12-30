@@ -1,0 +1,12 @@
+
+# Xcode
+*.xcworkspace
+
+*.xcscheme
+*.xcschemes/
+*.xcuserstate
+*.xcworkspace/
+
+# CocoaPods
+Pods/
+Podfile.lock
